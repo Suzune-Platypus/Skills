@@ -11,7 +11,7 @@ Claude用カスタムSkillのコレクションです。
 
 | Skill | 内容 |
 |-------|------|
-| [webapp-design](./ClaudeAI/webapp-design/) | WebアプリをAIと一緒に設計るSkill |
+| [webapp-design](./ClaudeAI/webapp-design/) | WebアプリをAIと一緒に設計するSkill |
 | [webapp-design-diagnostic](./ClaudeAI/webapp-design-diagnostic/) | Webアプリ設計スキルを診断するSkill |
 
 ---
